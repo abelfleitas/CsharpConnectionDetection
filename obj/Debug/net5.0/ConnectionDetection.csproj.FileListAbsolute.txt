@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\ConnectionDetection\bin\Debug\net5.0\ConnectionDetection.deps.json
+C:\Users\Home\source\repos\ConnectionDetection\bin\Debug\net5.0\ConnectionDetection.dll
+C:\Users\Home\source\repos\ConnectionDetection\bin\Debug\net5.0\ref\ConnectionDetection.dll
+C:\Users\Home\source\repos\ConnectionDetection\bin\Debug\net5.0\ConnectionDetection.pdb
+C:\Users\Home\source\repos\ConnectionDetection\obj\Debug\net5.0\ConnectionDetection.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ConnectionDetection\obj\Debug\net5.0\ConnectionDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ConnectionDetection\obj\Debug\net5.0\ConnectionDetection.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ConnectionDetection\obj\Debug\net5.0\ConnectionDetection.AssemblyInfo.cs
+C:\Users\Home\source\repos\ConnectionDetection\obj\Debug\net5.0\ConnectionDetection.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ConnectionDetection\obj\Debug\net5.0\ConnectionDetection.dll
+C:\Users\Home\source\repos\ConnectionDetection\obj\Debug\net5.0\ref\ConnectionDetection.dll
+C:\Users\Home\source\repos\ConnectionDetection\obj\Debug\net5.0\ConnectionDetection.pdb

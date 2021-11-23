@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfzohcSAFIS8vC7yJoSSliEyI92UqjlHFdvli+1irAxNJAZ5s0aaoH1XSjAN50fjO79d5+8NL5wn/Vpq/GhUKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\source\\repos\\ConnectionDetection\\ConnectionDetection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
